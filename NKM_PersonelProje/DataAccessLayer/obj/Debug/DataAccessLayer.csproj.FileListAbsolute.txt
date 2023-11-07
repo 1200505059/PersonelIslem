@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\NKM_PersonelProje\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\pc\source\repos\NKM_PersonelProje\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\pc\source\repos\NKM_PersonelProje\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\pc\source\repos\NKM_PersonelProje\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\pc\source\repos\NKM_PersonelProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\NKM_PersonelProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\NKM_PersonelProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\pc\source\repos\NKM_PersonelProje\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\pc\source\repos\NKM_PersonelProje\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

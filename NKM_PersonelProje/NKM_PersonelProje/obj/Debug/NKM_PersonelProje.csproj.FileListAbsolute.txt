@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\bin\Debug\NKM_PersonelProje.exe.config
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\bin\Debug\NKM_PersonelProje.exe
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\bin\Debug\NKM_PersonelProje.pdb
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\bin\Debug\DataAccessLayer.dll
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\bin\Debug\EntityLayer.dll
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\bin\Debug\LogicLayer.dll
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\bin\Debug\DataAccessLayer.pdb
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\bin\Debug\EntityLayer.pdb
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\bin\Debug\LogicLayer.pdb
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\obj\Debug\NKM_PersonelProje.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\obj\Debug\NKM_PersonelProje.Form1.resources
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\obj\Debug\NKM_PersonelProje.Properties.Resources.resources
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\obj\Debug\NKM_PersonelProje.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\obj\Debug\NKM_PersonelProje.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\obj\Debug\NKM_PersonelProje.csproj.CopyComplete
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\obj\Debug\NKM_PersonelProje.exe
+C:\Users\pc\source\repos\NKM_PersonelProje\NKM_PersonelProje\obj\Debug\NKM_PersonelProje.pdb

@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\NKM_PersonelProje\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\pc\source\repos\NKM_PersonelProje\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\pc\source\repos\NKM_PersonelProje\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\NKM_PersonelProje\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\NKM_PersonelProje\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\pc\source\repos\NKM_PersonelProje\EntityLayer\obj\Debug\EntityLayer.pdb
